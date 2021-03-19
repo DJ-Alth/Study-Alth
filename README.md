@@ -1,6 +1,6 @@
 # Study-Alth
 
-👩🏻‍💻 알고리즘 공부 🧑🏻‍💻
+👩🏻‍💻📝 Algorithm Study with Baekjoon 🕐🧑🏻‍💻
 
 
 1. 입출력과 사칙연산 

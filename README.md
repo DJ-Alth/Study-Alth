@@ -4,7 +4,8 @@
 
 
 1. 입출력과 사칙연산 
-**[[Source Code](https://github.com/DJ-Alth/Study-Alth/tree/main/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)]**<br/>
+**[[2557](https://github.com/DJ-Alth/Study-Alth/tree/main/%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC%20%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)]
+**<br/>
 
 2. 문자열 
 **[[1316](https://github.com/DJ-Alth/Study-Alth/tree/main/%EB%AC%B8%EC%9E%90%EC%97%B4/1316)] 

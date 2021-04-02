@@ -16,7 +16,7 @@
 
 4. 기타 **[[Source Code]()]**<br/>
 
-
+<br><br>
 
 ## 👩🏻‍💻📝 Algorithm Study with Programmers 🕐🧑🏻‍💻
 
@@ -24,4 +24,4 @@
 **[[K번째수](https://github.com/DJ-Alth/Study-Alth/tree/main/Programmers/K%EB%B2%88%EC%A7%B8%EC%88%98)]**<br/>
 
 
-기타 **[[Source Code]()]**<br/>
+2. 기타 **[[Source Code]()]**<br/>

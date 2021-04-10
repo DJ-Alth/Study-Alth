@@ -5,7 +5,6 @@ class Solution {
         
         int[] month = { 31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
         String[] dayOfweek = { "THU", "FRI", "SAT", "SUN", "MON", "TUE", "WED" };
-
         int d = 0, result = 0;
 
         for (int i = 0; i < (a -1); i++) {

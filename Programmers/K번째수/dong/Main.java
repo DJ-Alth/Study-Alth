@@ -1,4 +1,4 @@
-package com.company;
+package Programmers.K번째수.dong;
 
 import java.util.*;
 

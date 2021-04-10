@@ -1,3 +1,5 @@
+package Programmers.K번째수.jiwon;
+
 import java.util.*;
 
 class Solution {
